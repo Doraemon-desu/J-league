@@ -26,7 +26,7 @@ setuptools.setup(
     python_requires=">=3.7",
     entry_points = {
         'console_scripts': [
-            'J-win = J-win:main'
+            'jwin = jwin:main'
         ]
     },
 )
